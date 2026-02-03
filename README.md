@@ -1,2 +1,2 @@
-# Aulas-Constru-o-de-Software
+# Aulas Construção de Software
 Repositório dedicado a enviar as tarefas.
